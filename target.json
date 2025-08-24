@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "kb_p_typ_250809",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "kb_p_typ_250809_vial"
+        }
+    ]
+}
